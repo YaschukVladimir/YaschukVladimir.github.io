@@ -1,0 +1,1 @@
+.banner__dots{width:74px;height:16px;display:flex;position:absolute;bottom:22px;right:40px}.banner__dot{width:16px;height:16px;background-color:#f4f4fc;border-radius:50%;margin-right:10px}.banner__dot:hover{cursor:pointer;background-color:#e8e8fa}.active{background-color:#7575e2}
